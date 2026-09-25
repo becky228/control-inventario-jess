@@ -1,0 +1,10 @@
+# Copia este archivo a ".env" y completa con los datos de tu proyecto de Supabase.
+# Los encuentras en: Supabase → Project Settings → API
+
+VITE_SUPABASE_URL=https://TU-PROYECTO.supabase.co
+VITE_SUPABASE_ANON_KEY=TU-CLAVE-PUBLICA-ANON
+
+# Opcional: número de WhatsApp de la tienda (formato internacional, solo dígitos,
+# ej. 59171234567) para el botón "Consultar por WhatsApp" del catálogo.
+# Si se deja vacío, el botón no se muestra.
+VITE_WHATSAPP_NUMERO=
